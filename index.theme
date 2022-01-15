@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Tokyo-Darker
+Comment=The dark desktop theme with tokyo highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Tokyo-Darker
+MetacityTheme=Tokyo-Darker
+ButtonLayout=:minimize,maximize,close
