@@ -8,7 +8,7 @@ The theme is still a WIP, so expect changes!!
 
 ## Installation
 
-- Clone or download this repo into `~/.themes/Tokyo-Darker` directory
+Clone or download this repo into `~/.themes/Tokyo-Darker` directory
 
 ## Variants
 
