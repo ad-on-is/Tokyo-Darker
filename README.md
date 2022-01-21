@@ -17,7 +17,12 @@ The theme is still a WIP, so expect changes!!
 ## Extensions used in Screenshot
 
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+  - Themed automatically
 - [Workspaces Bar](https://extensions.gnome.org/extension/3851/workspaces-bar/)
+
+  - Use provides _stylesheet.css_ and replace in `~/.local/share/gnome-shell/extensions/workspaces-bar`
+
+---
 
 ## Inspiration and mentions
 
