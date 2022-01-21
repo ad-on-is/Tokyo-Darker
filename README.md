@@ -14,6 +14,11 @@ The theme is still a WIP, so expect changes!!
 
 ---
 
+## Extensions used in Screenshot
+
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- [Workspaces Bar](https://extensions.gnome.org/extension/3851/workspaces-bar/)
+
 ## Inspiration and mentions
 
 Inspired by: [Tokyo Night VSCode](https://github.com/enkia/tokyo-night-vscode-theme)
