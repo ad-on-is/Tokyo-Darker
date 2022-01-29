@@ -1788,7 +1788,7 @@ StScrollBar StButton#hhandle:active {
 
 /* Top Bar */
 #panel {
-  background-color: rgba(26, 27, 38, 0.75);
+  background-color: rgba(26, 27, 38, 0.9);
   font-weight: bold;
   height: 2.4em;
   font-feature-settings: "tnum";
@@ -1828,10 +1828,12 @@ StScrollBar StButton#hhandle:active {
   border: 4px solid transparent;
   border-radius: 20px;
   box-shadow: inset 0 0 0 100px rgba(20, 20, 30, 0);
+  background: rgba(86, 95, 137, 0.3);
 }
 
-#panel .panel-button.clock-display .clock {
-  color: #e0af68;
+#panel .panel-button.clock-display {
+  background-color: #0f4b6e;
+  color: white;
 }
 
 #panel .panel-button:hover {
@@ -1839,11 +1841,11 @@ StScrollBar StButton#hhandle:active {
 }
 
 #panel .panel-button:hover.clock-display {
-  box-shadow: none;
+  /* box-shadow: none; */
 }
 
 #panel .panel-button:hover.clock-display .clock {
-  box-shadow: inset 0 0 0 100px rgba(189, 230, 251, 0.075);
+  /* box-shadow: inset 0 0 0 100px rgba(189, 230, 251, 0.075); */
 }
 
 #panel .panel-button:active,
@@ -1870,8 +1872,8 @@ StScrollBar StButton#hhandle:active {
 #panel .panel-button:focus,
 #panel .panel-button:checked {
   box-shadow: none;
-  background-gradient-start: #f7768e;
-  background-gradient-end: #ff9e64;
+  background-gradient-start: #166775;
+  background-gradient-end: #0f4b6e;
   background-gradient-direction: horizontal;
   color: white;
   text-shadow: 0px 0px 2px rgba(20, 20, 30, 0.9);

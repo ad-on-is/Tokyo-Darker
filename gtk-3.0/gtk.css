@@ -673,7 +673,7 @@ button:checked {
   color: white;
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: 0 2px 4px rgba(255, 89, 102, 0.2);
 }
 
@@ -887,7 +887,7 @@ button.suggested-action {
   color: white;
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   font-weight: 700;
 }
 
@@ -1009,7 +1009,7 @@ button.destructive-action {
   color: white;
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   font-weight: 700;
 }
 
@@ -2695,7 +2695,7 @@ treeview.view.expander:backdrop {
 treeview.view.progressbar {
   color: white;
   background-color: #fa4444;
-  background: linear-gradient(to right, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: none;
   border-radius: 8px;
 }
@@ -2905,7 +2905,7 @@ menu menuitem:hover,
 .context-menu menuitem:hover {
   color: white;
   background-color: #fa4444;
-  background: linear-gradient(to right, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 menu menuitem:disabled,
@@ -3422,7 +3422,7 @@ switch {
 
 switch:checked {
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 switch:disabled {
@@ -3686,7 +3686,7 @@ radio:backdrop:disabled {
 check:checked,
 radio:checked {
   background-clip: border-box;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: none;
   color: white;
 }
@@ -3728,7 +3728,7 @@ radio:checked:backdrop:disabled {
 check:indeterminate,
 radio:indeterminate {
   background-clip: border-box;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: none;
   color: white;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
@@ -3940,7 +3940,7 @@ scale highlight {
   border: none;
   border-radius: 8px;
   background-color: #fa4444;
-  background: linear-gradient(to right, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 scale.vertical progressbar progress,
@@ -4585,7 +4585,7 @@ levelbar block {
 
 levelbar block.warning-battery-offset {
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 levelbar block.warning-battery-offset:backdrop {
@@ -4608,7 +4608,7 @@ levelbar block.low-battery-offset:backdrop {
 levelbar block.high,
 levelbar block:not(.empty) {
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 levelbar block.high:backdrop,
@@ -5017,7 +5017,7 @@ row.activatable:selected {
   /* text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); */
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: rgba(154, 165, 206, 0.2);
-  /* background: linear-gradient(65deg, #f7768e, #ff9e64); */
+  /* background: linear-gradient(65deg, #2ac3de, #166775); */
   /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); */
 }
 
@@ -5605,7 +5605,7 @@ infobar.error button:checked {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: 0 2px 4px rgba(255, 89, 102, 0.2);
 }
 
@@ -6934,7 +6934,7 @@ frame.geary-conversation-frame scrolledwindow treeview.view:selected {
   color: black;
   outline-color: rgba(255, 255, 255, 0.3);
   background-color: #fa4444;
-  background: linear-gradient(65deg, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
   box-shadow: 0 2px 4px rgba(255, 89, 102, 0.2);
   box-shadow: none;
 }
@@ -7750,7 +7750,7 @@ XfdesktopIconView.view .label {
 #XfceNotifyWindow progressbar progress {
   animation: none;
   background-image: none;
-  background: linear-gradient(to right, #f7768e, #ff9e64);
+  background: linear-gradient(65deg, #2ac3de, #166775);
 }
 
 /* Xfwm4's alt-tab dialog, aka "tabwin" */
