@@ -24,7 +24,7 @@ Clone or download this repo into `~/.themes/Tokyo-Darker` directory
 
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
   - Themed automatically
-- Use this modified version of [Workspaces Bar](https://extensions.gnome.org/extension/3851/workspaces-bar/)
+- For workspace indicator, use the included gnome-extension 
 - [Candy Icons](https://www.gnome-look.org/p/1305251/)
   - Pink variant
 - [NVChad] (https://github.com/NvChad/NvChad) with [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
@@ -37,6 +37,7 @@ Inspired by: [Tokyo Night VSCode](https://github.com/enkia/tokyo-night-vscode-th
 
 Base used from: [Zorin Desktop theme](https://github.com/ZorinOS/zorin-desktop-themes)
 
+Workspaces Bar used from [GNOME-extension](https://extensions.gnome.org/extension/3851/workspaces-bar/)
 ---
 
 ## License
