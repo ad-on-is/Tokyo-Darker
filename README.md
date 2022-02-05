@@ -1,6 +1,6 @@
 # Tokyo Nights Darker
 
-The theme is still a WIP, so expect changes!!
+
 
 ![Screenshot](https://github.com/ad-on-is/Tokyo-Darker/blob/6bdcd812ecbc59eca468cbcc1567458fec3d4e98/images/screen2.png)
 
