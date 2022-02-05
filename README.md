@@ -2,7 +2,7 @@
 
 The theme is still a WIP, so expect changes!!
 
-![Screenshot](https://github.com/ad-on-is/Tokyo-Darker/raw/e0061961ad1925252260f9d38b025438337d2b98/images/screen1.jpg)
+![Screenshot](https://github.com/ad-on-is/Tokyo-Darker/blob/6bdcd812ecbc59eca468cbcc1567458fec3d4e98/images/screen2.png)
 
 ---
 
