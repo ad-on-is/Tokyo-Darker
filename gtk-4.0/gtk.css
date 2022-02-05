@@ -18,7 +18,7 @@
   outline-color: alpha(currentColor, 0.3);
   outline-style: dashed;
   outline-offset: -3px;
-  outline-width: 1px;
+  outline-width: none;
   -gtk-outline-radius: 8px;
   -gtk-secondary-caret-color: #c0caf5;
 }
