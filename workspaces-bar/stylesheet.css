@@ -38,32 +38,6 @@
 
 /* non-framed version */
 
-.desktop-label-nonempty-active {
-  margin-left: 0px;
-  margin-right: 8px;
-  background-color: #e0af68;
-  color: white;
-  border-radius: 20px;
-}
-
-.desktop-label-nonempty-inactive {
-  margin-left: 0px;
-  margin-right: 8px;
-  background-color: rgba(96, 96, 96, 0.5);
-  border-radius: 20px;
-}
-
-.desktop-label-empty-active {
-  margin-left: 0px;
-  margin-right: 8px;
-  background-color: #e0af68;
-  color: white;
-  border-radius: 20px;
-}
-
-.desktop-label-empty-inactive {
-  margin-left: 0px;
-  margin-right: 8px;
-  background-color: rgba(0, 0, 0, 0);
-  border-radius: 20px;
+.ws-indicator-active {
+  color: #7dcfff;
 }

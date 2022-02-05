@@ -16,19 +16,18 @@ Clone or download this repo into `~/.themes/Tokyo-Darker` directory
 - GKT 3.0
 - GTK 4.0
 - GNOME-Shell
-
+- Ulauncher
+- Plank
 ---
 
 ## Extensions/Icons used in Screenshot
 
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
   - Themed automatically
-- [Workspaces Bar](https://extensions.gnome.org/extension/3851/workspaces-bar/)
-
-  - Use provides _stylesheet.css_ and replace in `~/.local/share/gnome-shell/extensions/workspaces-bar`
-
-- [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme)
+- Use this modified version of [Workspaces Bar](https://extensions.gnome.org/extension/3851/workspaces-bar/)
+- [Candy Icons](https://www.gnome-look.org/p/1305251/)
   - Pink variant
+- [NVChad] (https://github.com/NvChad/NvChad) with [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
 ---
 
