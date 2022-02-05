@@ -12,10 +12,10 @@ Clone or download this repo into `~/.themes/Tokyo-Darker` directory
 
 ## Variants
 
-- GTK 2.0 _(not fully tested)_
-- GKT 3.0 _(usable, but still WIP)_
-- GTK 4.0 _(usable but still WIP)_
-- GNOME-Shell _(usable but still WIP)_
+- GTK 2.0
+- GKT 3.0
+- GTK 4.0
+- GNOME-Shell
 
 ---
 
