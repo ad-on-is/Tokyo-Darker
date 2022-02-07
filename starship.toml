@@ -1,0 +1,129 @@
+add_newline = false
+continuation_prompt = "❯❯ "
+
+format = """
+$sudo$directory($package)$all
+"""
+
+#format = """$character"""
+#right_format = """$all"""
+[character]
+success_symbol = "[❯](bold #f7768e)[❯](bold #2ac3de)[❯](bold #9ece6a)"
+error_symbol = "[❯](bold #2ac3de)[❯](bold #e0af68)[❯](bold #f7768e)"
+
+[cmd_duration]
+show_milliseconds = true
+min_time = 10
+
+
+
+
+
+[aws]
+symbol = "  "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+style = "#7aa2f7 bold"
+
+[directory]
+truncation_length=1
+read_only = " "
+style = "#7dcfff bold"
+home_symbol = " "
+truncation_symbol = "../"
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[git_branch]
+symbol = " "
+# format = "[$symbol$branch]($style)[:$remote_name/$remote_branch](#f7768e)"
+style = "#ff9e64 bold"
+always_show_remote = false
+
+[git_commit]
+tag_symbol = "  "
+format = "[\\[$hash$tag\\]]($style) "
+disabled = false
+# only_detached = true
+# tag_disabled = true
+style = "#e0af68 bold"
+
+[golang]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+[package]
+# symbol = " "
+symbol = ""
+format = "[\\($symbol$version\\) ]($style)"
+style = "#7dcfff dimmed"
+display_private = true
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[scala]
+symbol = " "
+
+[shlvl]
+symbol = " "
+
+[sudo]
+disabled = false
+symbol = " "
+style = "#f7768e"
+format = "[$symbol]($style)"
+
+[swift]
+symbol = "ﯣ "
+
+[username]
+show_always = false
+format = "[$user]($style)"
+style_user = "white bold"
+style_root = "red bold"
+
+[hostname]
+ssh_only = true
+format = "@[$hostname]($style) in "
+style = "white bold"
