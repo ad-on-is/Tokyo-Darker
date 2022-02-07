@@ -28,6 +28,7 @@ Clone or download this repo into `~/.themes/Tokyo-Darker` directory
 - [Candy Icons](https://www.gnome-look.org/p/1305251/)
   - Pink variant
 - [NVChad] (https://github.com/NvChad/NvChad) with [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+- Font: Roboto
 
 ---
 
