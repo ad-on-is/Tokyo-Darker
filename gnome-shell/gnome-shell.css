@@ -18,7 +18,7 @@ stage {
 .resize-popup,
 .osd-window {
   color: #c0caf5;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   border: 1px solid rgba(189, 230, 251, 0.1);
   box-shadow: 0 10px 30px 10px rgba(20, 20, 30, 0.4);
   border-radius: 10px;
@@ -28,7 +28,7 @@ stage {
 .workspace-thumbnails,
 #dash {
   color: #c0caf5;
-  background-color: rgba(17, 17, 23, 0.75);
+  background-color: rgba(22, 22, 30, 0.75);
   border: none;
 }
 
@@ -648,7 +648,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: none;
   text-shadow: none;
   icon-shadow: none;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   padding: 6px;
 }
 
@@ -824,7 +824,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: none;
   text-shadow: none;
   icon-shadow: none;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   padding: 12px;
 }
 
@@ -886,7 +886,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: none;
   text-shadow: none;
   icon-shadow: none;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   padding: 12px;
 }
 
@@ -965,7 +965,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: none;
   text-shadow: none;
   icon-shadow: none;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   padding: 12px;
 }
 
@@ -1072,7 +1072,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: none;
   text-shadow: none;
   icon-shadow: none;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
 }
 
 .message:focus {
@@ -1792,9 +1792,8 @@ StScrollBar StButton#hhandle:active {
   font-weight: bold;
   height: 2.4em;
   font-feature-settings: "tnum";
-  border-radius: 10px;
+  border-radius: 30px;
   margin: 10px 25px;
-  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); */
 }
 
 #panel.unlock-screen,
@@ -1831,6 +1830,11 @@ StScrollBar StButton#hhandle:active {
   border-radius: 20px;
   box-shadow: inset 0 0 0 100px rgba(20, 20, 30, 0);
   background: rgba(86, 95, 137, 0.2);
+}
+
+#panel .panel-button * {
+  background: none !important;
+  border: none !important;
 }
 
 #panel .panel-button.clock-display {
@@ -2107,7 +2111,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .search-section-content {
-  background-color: rgba(17, 17, 23, 0.8);
+  background-color: rgba(22, 22, 30, 0.8);
   border-radius: 10px;
   border: 1px solid rgba(189, 230, 251, 0.1);
   box-shadow: 0 2px 6px 0 rgba(20, 20, 30, 0.4);
@@ -2218,14 +2222,14 @@ StScrollBar StButton#hhandle:active {
 
 /* App Folders */
 .app-well-app.app-folder {
-  background-color: rgba(17, 17, 23, 0.15);
+  background-color: rgba(22, 22, 30, 0.15);
   border-radius: 8px;
 }
 
 .app-folder-dialog {
   border-radius: 10px;
   border: 1px solid rgba(189, 230, 251, 0.1);
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   padding: 12px;
 }
 
@@ -2424,7 +2428,7 @@ StScrollBar StButton#hhandle:active {
 
 .show-apps:focus .overview-icon,
 .show-apps:checked .overview-icon {
-  background-color: rgba(17, 17, 23, 0.45);
+  background-color: rgba(22, 22, 30, 0.45);
   color: #c0caf5;
 }
 
@@ -2663,7 +2667,7 @@ StScrollBar StButton#hhandle:active {
 
 /* On-screen Keyboard */
 #keyboard {
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   box-shadow: inset 0 1px 0 0 rgba(189, 230, 251, 0.1);
 }
 
@@ -2872,7 +2876,7 @@ StScrollBar StButton#hhandle:active {
 
 /* Looking Glass */
 #LookingGlassDialog {
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
   spacing: 6px;
   padding: 4px;
   border: 1px solid rgba(189, 230, 251, 0.1);
@@ -2883,7 +2887,7 @@ StScrollBar StButton#hhandle:active {
 #LookingGlassDialog > #Toolbar {
   border: none;
   border-radius: 10px;
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
 }
 
 #LookingGlassDialog .labels {
@@ -2997,7 +3001,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 #LookingGlassPropertyInspector {
-  background: rgba(17, 17, 23, 0.95);
+  background: rgba(22, 22, 30, 0.95);
   border: 1px solid rgba(189, 230, 251, 0.25);
   border-radius: 8px;
   padding: 6px;
@@ -3040,7 +3044,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .login-dialog StEntry:focus StLabel.hint-text {
-  color: rgba(17, 17, 23, 0.5);
+  color: rgba(22, 22, 30, 0.5);
 }
 
 .login-dialog .modal-dialog-button-box {
@@ -3311,7 +3315,7 @@ StScrollBar StButton#hhandle:active {
 .unlock-dialog-notifications-container .unlock-dialog-notification-source {
   padding: 12px 6px;
   border: none;
-  background-color: rgba(17, 17, 23, 0.5);
+  background-color: rgba(22, 22, 30, 0.5);
   color: #c0caf5;
   border-radius: 10px;
 }
@@ -3319,7 +3323,7 @@ StScrollBar StButton#hhandle:active {
 .unlock-dialog-notifications-container .notification.critical,
 .unlock-dialog-notifications-container
   .unlock-dialog-notification-source.critical {
-  background-color: rgba(17, 17, 23, 0.95);
+  background-color: rgba(22, 22, 30, 0.95);
 }
 
 .unlock-dialog-notification-label {
